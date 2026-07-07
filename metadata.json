@@ -1,0 +1,6 @@
+{
+  "name": "BAM Rocket",
+  "description": "BAM Rocket is a premium B2B SaaS platform for AI-powered lead generation, data enrichment, and automated outreach campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
